@@ -41,7 +41,10 @@ namespace NUnitProject
             StockAmount = baseInfo.StockAmount;
             Category = baseInfo.Category;
         }
+        public StockBaseInfoViewModel()
+        {
 
+        }
 
     }
 }
